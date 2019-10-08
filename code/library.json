@@ -3,8 +3,8 @@
     "description":"Utilities for creating a webpage to display sensor readings on ESP32.",
     "authors":[
         { "name": "Kevin Velcich" },
-        { "name": "Matthew Findlay" }
-        { "name": "Esai Morales" }
+        { "name": "Matthew Findlay" },
+        { "name": "Esai Morales" },
         { "name": "Schachi Kakkar" }
     ],
     "repository":
